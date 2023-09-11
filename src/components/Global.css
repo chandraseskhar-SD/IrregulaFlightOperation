@@ -1,0 +1,37 @@
+.maindiv{
+    background-color: aqua;
+    width: 450px;
+    height: 600px;
+    /* overflow-y: scroll;
+    scroll-behavior: smooth; */
+}
+.subdiv{
+    display: flex;
+    /* align-items: center;
+    justify-content: center; */
+    overflow-y: scroll;
+    /* height: 200%; */
+    font-size: 1em;
+    /* position: sticky; */
+    background-color: brown;
+    /* overflow-y: scroll;
+    scroll-behavior: smooth;  */
+    height: 500px;
+   
+}
+.inputn{
+    /* scroll-behavior: None;
+    scroll-behavior: unset; */
+    /* position: fixed; */
+    border-bottom: fixed;
+    margin-top: 0 !important;
+    position: sticky;
+   
+}
+.text{
+    margin-top: 20px;
+}
+.buttons{
+     display: flex;
+     border: 1px sloid;
+}
